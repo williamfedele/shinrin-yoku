@@ -1,0 +1,21 @@
+{
+  "name": "shinrin-yoku",
+  "displayName": "shinrin-yoku",
+  "description": "Immerse yourself in nature with this theme inspired by the Japanese practice of forest bathing. 🌲",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shinrin-yoku",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shinrin-yoku-color-theme.json"
+      }
+    ]
+  }
+}
