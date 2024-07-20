@@ -1,8 +1,9 @@
 {
   "name": "shinrin-yoku",
-  "displayName": "shinrin-yoku",
+  "displayName": "Shinrin-yoku",
   "description": "Immerse yourself in nature with this theme inspired by the Japanese practice of forest bathing. 🌲",
   "version": "0.0.1",
+  "publisher": "williamfedele",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -17,5 +18,15 @@
         "path": "./themes/Shinrin-yoku-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamfedele/shinrin-yoku",
+    "directory": "."
+  },
+  "bugs": {
+    "url": "https://github.com/williamfedele/shinrin-yoku/issues"
+  },
+  "icon": "assets/icon.jpg"
 }
