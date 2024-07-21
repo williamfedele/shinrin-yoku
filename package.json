@@ -2,7 +2,7 @@
   "name": "shinrin-yoku",
   "displayName": "Shinrin-yoku",
   "description": "Immerse yourself in nature with this theme inspired by the Japanese practice of forest bathing. 🌲",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "williamfedele",
   "engines": {
     "vscode": "^1.91.0"
