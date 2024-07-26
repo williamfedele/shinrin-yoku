@@ -211,7 +211,7 @@
 				"invalid.deprecated",
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
 			],
 			"settings": {
 				"foreground": "#44702D"
@@ -500,14 +500,6 @@
 			],
 			"settings": {
 				"foreground": "#546756"
-			}
-		},
-		{
-			"scope": [
-				"support.type"
-			],
-			"settings": {
-				"foreground": "#B2CCD6"
 			}
 		},
 		{

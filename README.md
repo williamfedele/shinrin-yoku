@@ -5,6 +5,7 @@
     </p>
     <p align="center">
         <img src="assets/preview.png">
+        <i>Font used: Hack<i>
     </p>
 </div>
 
@@ -14,7 +15,7 @@ The palette is slightly modified from 31 found [here](https://lospec.com/palette
 
 ## Usage
 
-The theme can be installed from the VS Code extension marketplace [here](https://marketplace.visualstudio.com/items?itemName=williamfedele.shinrin-yoku).
+The theme can be installed from the VS Code extension marketplace [here](https://marketplace.visualstudio.com/items?itemName=williamfedele.shinrin-yoku). Alternatively, you can search for `Shinrin-yoku` within VSCode extensions.
 
 ## Disclaimer
 
